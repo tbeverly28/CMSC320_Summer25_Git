@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to the marketing field. For example, if a fast-food place wanted to measure interests in a new product that they have an ad for on social media, they might ask a data science analyst to analyze the effectiveness of the ad.
